@@ -1,0 +1,3 @@
+[submodule "devops_check_submodule"]
+	path = devops_check_submodule
+	url = https://github.com/shreyash-work-fl/devops_check_submodule.git
